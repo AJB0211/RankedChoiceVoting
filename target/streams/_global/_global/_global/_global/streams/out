@@ -1,0 +1,156 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [rankedchoicevoting / Compile / run] Found inputs: /home/abruen/IdeaProjects/RankedChoiceVoting/*.{java,scala},/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/java/**/*.{java,scala},/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/resources/**/*,/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/**/*.{java,scala},/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(48d05cdd5dbaabf140715854f4788f69a722ff81), current stamp: Hash(d921460c3361fbe3359fe90cb3f061c9f8ad4a4e))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:48:13.308 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:48:13.308 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 5 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(d921460c3361fbe3359fe90cb3f061c9f8ad4a4e), current stamp: Hash(3f7ce734fcdc3cfb2ec2ca868c1126d0e575ca94))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:51:21.725 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:51:21.725 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 280 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(3f7ce734fcdc3cfb2ec2ca868c1126d0e575ca94), current stamp: Hash(7aa5965c0ba981432d08aada2f30994fa8bad7c7))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:51:50.639 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:51:50.639 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m7. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 9 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m8. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(7aa5965c0ba981432d08aada2f30994fa8bad7c7), current stamp: Hash(1e3206224cc77fad650d61c714525bdf3f0de309))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:52:22.392 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:52:22.392 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m9. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 8 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m10. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(1e3206224cc77fad650d61c714525bdf3f0de309), current stamp: Hash(fe31a3ecff6f21b51d58c8cd3fd8b3d86b23e124))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:53:05.577 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:53:05.577 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m11. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 9 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m12. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(fe31a3ecff6f21b51d58c8cd3fd8b3d86b23e124), current stamp: Hash(ccd2ff7590ba9946ea27387d6b7e82879e833dcc))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:53:31.751 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:53:31.751 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m13. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 8 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m14. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(ccd2ff7590ba9946ea27387d6b7e82879e833dcc), current stamp: Hash(de107195148655de1a15bccf4764b19cec9309ff))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:54:29.091 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:54:29.091 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m15. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m16. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(de107195148655de1a15bccf4764b19cec9309ff), current stamp: Hash(6b1691ff02da5edfbf112c82b277989c9fdc408e))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:54:54.073 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:54:54.073 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m17. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 8 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Trigger.[0m
+[0m[[0m[0minfo[0m] [0m[0m18. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala (previous stamp: Hash(6b1691ff02da5edfbf112c82b277989c9fdc408e), current stamp: Hash(3ab489313511fb8d4b6145d80fcdc3e707bf7d49))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala -> Trigger. Returning: (Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:55:05.774 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. Running 'run test2.txt'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala, 2020-Oct-04 12:55:05.774 ET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mrankedchoicevoting / Compile / run - Accepted event for /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m19. Monitoring source files for rankedchoicevoting/run test2.txt...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/abruen/IdeaProjects/RankedChoiceVoting/src/main/scala/main.scala. This event occurred 4 ms since the last event for this path.[0m
